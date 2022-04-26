@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FryderykPollub
 - 👀 I’m interested in video games, football and music
-- 🌱 I’m currently learning Unity
 - 📫 How to reach me?
                       📧mail: f.malyszczuk@gmail.com
                       📸instagram: @fredekmaly
